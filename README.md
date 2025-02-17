@@ -19,7 +19,7 @@ It also supports **custom delimiters** and **throws an exception for negative nu
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-repo/string-calculator-tdd.git
+   git clone https://github.com/your-repo/string-calculator.git
    cd string-calculator
    ```
 
